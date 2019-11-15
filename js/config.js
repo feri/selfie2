@@ -8,7 +8,7 @@
  */
 let config = {
   // offline message
-  offline: "The uMEC APIs will be available shortly.",
+  offline: '';//"The uMEC APIs will be available shortly.",
   
   // model to be used for predictions by default
   model: "ssdlite_mobilenet_v2_coco_2018_05_09",
