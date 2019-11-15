@@ -17,7 +17,7 @@ let config = {
   // other models require deployment to uMEC
   models: {
     ssdlite_mobilenet_v2_coco_2018_05_09: {
-      url: "https://micromec.org/api/detection/v1/models/ssdlite_mobilenet_v2_coco_2018_05_09:predict"
+      url: "http://micromec.org:32002/v1/models/ssdlite_mobilenet_v2_coco_2018_05_09:predict"
     }
   }
 }
